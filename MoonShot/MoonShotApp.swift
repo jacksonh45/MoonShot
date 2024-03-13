@@ -4,11 +4,10 @@
 //
 //  Created by Jackson Harrison on 3/7/24.
 //
-
 import SwiftUI
 
 @main
-struct MoonShotApp: App {
+struct MoonshotApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
